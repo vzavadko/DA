@@ -21,7 +21,7 @@ namespace WpfControlLibrary1
     {
         public int ActivePoint { get; set; }
         
-        public TeethHelper()!
+        public TeethHelper()
         {
             InitializeComponent();
         }

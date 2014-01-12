@@ -1,0 +1,5 @@
+D:\Walter\Development\Zuby\DentAssistant\XRay.Core\bin\Debug\XRay.Core.dll
+D:\Walter\Development\Zuby\DentAssistant\XRay.Core\bin\Debug\XRay.Core.pdb
+D:\Walter\Development\Zuby\DentAssistant\XRay.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Walter\Development\Zuby\DentAssistant\XRay.Core\obj\Debug\XRay.Core.dll
+D:\Walter\Development\Zuby\DentAssistant\XRay.Core\obj\Debug\XRay.Core.pdb

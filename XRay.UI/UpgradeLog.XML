@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DentAssistant">
+</Property><Property Name="Solution File" Value="D:\Walter\Development\Zuby\DentAssistant\XRay.UI\DentAssistant.sln">
+</Property><Property Name="User Options File" Value="D:\Walter\Development\Zuby\DentAssistant\XRay.UI\DentAssistant.suo">
+</Property><Property Name="Date" Value="14 листопада 2013 р.">
+</Property><Property Name="Time" Value="23:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DentAssistant.sln" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\DentAssistant.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DentAssistant.suo" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\DentAssistant.suo">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="DentAssistant.csproj" Description="Project file successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\DentAssistant.csproj">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="DentAssistant.csproj.user" Description="Project user file successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\DentAssistant.csproj.user">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Core\PatientInfo.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Core\PatientInfo.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Core\XRayImage.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Core\XRayImage.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="MainForm.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="MainForm.Designer.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Program.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Properties\Settings1.Designer.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Properties\Settings1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="app.config" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="$this.Icon.ico" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\$this.Icon.ico">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Resources\Save.png" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Resources\Save.png">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="MainForm.resx" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="DentAssistant.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DentAssistant" Source="DentAssistant.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="WpfControlLibrary" Source="..\WpfControlLibrary\WpfControlLibrary.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\WpfControlLibrary.csproj" Description="Project file successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\WpfControlLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\ToothUserControl.xaml.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\ToothUserControl.xaml.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\TeethHelper.xaml.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\TeethHelper.xaml.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\ToothHelper.xaml.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\ToothHelper.xaml.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\CalculatedInformation.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\CalculatedInformation.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\CodeFile1.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\CodeFile1.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\Edge.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\Edge.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\IPoint.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\IPoint.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\Mathematics.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\Mathematics.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\ToothPolygon.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\ToothPolygon.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\ToothPoint.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\ToothPoint.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Utils\ToothSet.cs" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Utils\ToothSet.cs">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Properties\Settings.settings" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\Properties\Resources.resx" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\TeethHelper.xaml" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\TeethHelper.xaml">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\ToothHelper.xaml" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\ToothHelper.xaml">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\ToothUserControl.xaml" Description="File successfully backed up as D:\Walter\Development\Zuby\DentAssistant\XRay.UI\Backup\WpfControlLibrary\ToothUserControl.xaml">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\WpfControlLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WpfControlLibrary" Source="..\WpfControlLibrary\WpfControlLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DentAssistant.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DentAssistant.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DentAssistant" Source="DentAssistant.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WpfControlLibrary" Source="..\WpfControlLibrary\WpfControlLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

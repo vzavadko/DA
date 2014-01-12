@@ -12,16 +12,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfControlLibrary1
+namespace WpfControlLibrary
 {
     /// <summary>
-    /// Interaction logic for TeethHelper.xaml
+    /// Interaction logic for ToothHelper.xaml
     /// </summary>
-    public partial class TeethHelper : UserControl
+    public partial class ToothHelper : UserControl
     {
-        public int ActivePoint { get; set; }
-        
-        public TeethHelper()!
+        public ToothHelper()
         {
             InitializeComponent();
         }

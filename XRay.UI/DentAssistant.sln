@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentAssistant", "DentAssistant.csproj", "{5210ABC1-6DB0-439D-AEF3-3BFD8C33EE7F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9887B04F-FAB2-4A6C-A6A8-DA9AB47F678B} = {9887B04F-FAB2-4A6C-A6A8-DA9AB47F678B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLibrary", "..\WpfControlLibrary\WpfControlLibrary.csproj", "{9887B04F-FAB2-4A6C-A6A8-DA9AB47F678B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5210ABC1-6DB0-439D-AEF3-3BFD8C33EE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5210ABC1-6DB0-439D-AEF3-3BFD8C33EE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5210ABC1-6DB0-439D-AEF3-3BFD8C33EE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5210ABC1-6DB0-439D-AEF3-3BFD8C33EE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9887B04F-FAB2-4A6C-A6A8-DA9AB47F678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9887B04F-FAB2-4A6C-A6A8-DA9AB47F678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9887B04F-FAB2-4A6C-A6A8-DA9AB47F678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9887B04F-FAB2-4A6C-A6A8-DA9AB47F678B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
